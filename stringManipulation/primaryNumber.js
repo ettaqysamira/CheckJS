@@ -10,4 +10,4 @@ function primary_number(a){
       return premier
         
   }
-  console.log(primary_number(15))
+  console.log(primary_number(3))
